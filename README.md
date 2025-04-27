@@ -1,0 +1,3 @@
+- Hi, I’m @curretage, a starting coder creating my portfolio for freelancing
+- I’m interested in making world better with my coding
+- My skills - python + sqlite
